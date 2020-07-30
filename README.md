@@ -15,5 +15,5 @@ Hello, I'm Alpha I'm a "developer" I'm 17 years old I'm just a fucked up Brazili
 
 You can add me on discord: Alpha#0009.
 
-[![Twitter](https://img.shields.io/twitter/follow/Sigh1337?style=social)](https://twitter.com/poxaluaziinha)
+[![Twitter](https://img.shields.io/twitter/follow/Alpha?style=social)](https://twitter.com/poxaluaziinha)
 [alpxz.co](https://alpxz.co/) &copy; 2020
