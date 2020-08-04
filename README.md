@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I'm Alpha I'm a "developer" I'm 17 years old I'm just a fucked up Brazilian. Usually works on FiveM servers, but does some work on the user interface / UX ... although not much.
+Hello, I'm Alpha I'm a "developer" I'm 17 years old I'm just a fucked up Brazilian. Usually works on Discord, but does some work on the user interface / UX ... although not much.
 
 ### Stuff I know how to use.
 
