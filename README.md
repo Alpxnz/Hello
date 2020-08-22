@@ -7,7 +7,7 @@ Hello, I'm Alpha I'm a "developer" I'm 17 years old I'm just a fucked up Brazili
 > *ps: for things like vue and react I'm like partially good with them, I don't read through their APIs or use them enough lol.*
 
 - `Javascript` and a little `TypeScript`
-- `Python` and `JavaScript`
+- `Python` and `Go`
 - `HTML` and `CSS`
 - `MySQL` and `MongoDB`
 
