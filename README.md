@@ -4,8 +4,6 @@ Hello, I'm Alpha I'm a "developer" I'm 17 years old I'm just a fucked up Brazili
 
 ### Stuff I know how to use.
 
-> *ps: for things like vue and react I'm like partially good with them, I don't read through their APIs or use them enough lol.*
-
 - `Javascript` and a little `TypeScript`
 - `Python` and `Go`
 - `HTML` and `CSS`
@@ -13,6 +11,6 @@ Hello, I'm Alpha I'm a "developer" I'm 17 years old I'm just a fucked up Brazili
 
 ---
 
-You can add me on discord: alpha'#0001.
+You can add me on discord: alpha#0008.
 
 [alpxz.co](https://alpxz.co/) &copy; 2020
