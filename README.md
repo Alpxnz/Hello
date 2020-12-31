@@ -11,4 +11,4 @@ Hello, I'm Alpha I'm a "developer" I'm 17 years old I'm just a fucked up Brazili
 
 You can add me on discord: alpha#0009.
 
-[alpxz.co](https://alpxz.co/) &copy; 2020
+[alpxz.co](https://d3vil.cc/) &copy; 2020
