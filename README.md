@@ -1,14 +1,12 @@
-### 🛸 Hello World.
+<img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-Hello, I'm Alpha I'm a "developer" I'm 17 years old I'm just a fucked up Brazilian.
+```diff
+Hi, I'm Gustavo 👩‍💻.
 
-### Stuff I know how to use.
-
-- `Javascript` and a little `Typescript`
-- `Golang` and `Python`
-
----
-
-You can add me on discord: alpha#0009.
-
-[alpxz.co](https://d3vil.cc/) &copy; 2020
+@@Passionate programming student.@@
++ Living in Santa Catarina, Brazil 🇧🇷.
+- 17 years old
+! Speaker, community manager and shitposter
+# 📖 Programming languages, web development
+```
