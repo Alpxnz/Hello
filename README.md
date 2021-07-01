@@ -12,4 +12,5 @@ Hi, I'm Gustavo 👩‍💻.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fkkf4mwo7bywhmziuhe2mxarl&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
-[![owo](https://d3vil.cc/github)]
+[![owo](https://d3vil.cc/github)](https://d3vil.cc/)
+
