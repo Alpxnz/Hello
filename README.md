@@ -11,6 +11,6 @@ class Alpha(ReadMe):
             "Twitter": "strunged"
         }
         self.location = "Santa Catarina - Brasil"
-        self.age = "17"
+        self.age = 17
         self.occupation = "Freelance Developer"
         self.operating_system = "Arch, Linux"
