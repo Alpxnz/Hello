@@ -1,5 +1,19 @@
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+from GitHub import ReadMe
 
-```diff
-Hi, I'm Gustavo 👩‍💻.
-```
+class Alpha(ReadMe):
+    "/strunged/strunged/README.md"
+
+    def __init__(self):
+        self.username = "Alpha"
+        self.contacts = {
+            "Discord": "conflict#0007",
+            "Twitter": "strunged"
+        }
+        self.alises = [
+            "Alpha",
+            "Waste Away"
+        ]
+        self.location = "Santa Catarina - Brasil"
+        self.age = "17"
+        self.occupation = "Freelance Developer"
+        self.operating_system = "Arch, Linux"
