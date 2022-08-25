@@ -7,7 +7,7 @@ class Alpha(ReadMe):
     def __init__(self):
         self.username = "Alpha"
         self.contacts = {
-            "Discord": "gu#1000",
+            "Discord": "ultraviolence#0001",
             "Twitter": "strunged"
         }
         self.location = "Santa Catarina - Brasil"
