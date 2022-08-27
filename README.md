@@ -5,7 +5,7 @@ class Alpha(ReadMe):
     "/strunged/strunged/README.md"
 
     def __init__(self):
-        self.username = "Alpha"
+        self.name = "Gustavo"
         self.contacts = {
             "Discord": "alpha#1111",
             "Twitter": "strunged"
