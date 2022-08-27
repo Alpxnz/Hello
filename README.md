@@ -1,16 +1,17 @@
-```py
-from GitHub import ReadMe
-
-class Alpha(ReadMe):
-    "/strunged/strunged/README.md"
-
-    def __init__(self):
-        self.username = "Alpha"
-        self.contacts = {
-            "Discord": "ultraviolence#0001",
-            "Twitter": "strunged"
-        }
-        self.location = "Santa Catarina - Brasil"
-        self.age = 17
-        self.occupation = "Freelance Developer"
-        self.operating_system = "Arch, Linux"
+```js
+export const Alpha = {
+  pronouns: ["He", "Him"],
+  working_on: null,
+  languages: ["Javascript", "Go", "Python", "Typescript"],
+  technologies: {
+    frontend: {
+      libraries: ["react", "ejs", "vue"],
+      css: ["bootstrap"]
+    },
+    backend: {
+      js: ["Express.js", "Discord.js", "Node.js"],
+      python: ["Django"]
+    },
+    databases: ["MongoDB", "Redis", "PostgreSQL", "MySQL", "Firebase"]
+  }
+}
