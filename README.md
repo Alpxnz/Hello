@@ -2,7 +2,7 @@
 from GitHub import ReadMe
 
 class Alpha(ReadMe):
-    "/strunged/strunged/README.md"
+    "/doente/doente/README.md"
 
     def __init__(self):
         self.name = "Gustavo"
