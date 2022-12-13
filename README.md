@@ -1,15 +1,15 @@
-```py
-from GitHub import ReadMe
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1029046041456164934/1052065066100465695/xdd.png" width="100%" alt="Banner">
+</div>
 
-class Alpha(ReadMe):
-    "/doente/doente/README.md"
+<h3>ABOUT ME</h3>
 
-    def __init__(self):
-        self.name = "Gustavo"
-        self.contacts = {
-            "Discord": "gu#0001",
-            "Twitter": "strunged"
-        }
-        self.location = "Santa Catarina - Brasil"
-        self.age = 17
-        self.occupation = "Freelance Developer"
+I'm a Brazilian developer, with experience in building web platforms.<br>I like accessibility, performance and robust code.
+
+<h3>EXPERIENCE</h3>
+
+I've experience working in a private company and as a freelancer. </br>
+I have 4 years of experience with Javascript and 2 with Python.
+</br>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fkkf4mwo7bywhmziuhe2mxarl&count=3)
