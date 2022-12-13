@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1029046041456164934/1052065066100465695/xdd.png" width="100%" alt="Banner">
+  <img src="https://cdn.discordapp.com/attachments/1029046041456164934/1052081213009039410/xdd.png" width="100%" alt="Banner">
 </div>
 
 <h3>ABOUT ME</h3>
